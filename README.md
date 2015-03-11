@@ -1,5 +1,6 @@
 # NFCApp2
 测试机型：华为荣耀6。<br>
+<br>
 NFC标签大小：888字节。<br>
 一个简易的NFC功能程序，打开程序后，把手机靠近NFC标签，会自动把百度的首页<br>
 http://www.baidu.com <br>
